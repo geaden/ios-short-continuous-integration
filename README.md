@@ -3,5 +3,6 @@
 # Continuous Integration
 
 ![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
+[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=59eb9238329a870001e7f3d9&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/59eb9238329a870001e7f3d9/build/latest?branch=master)
 
 This repository contains resources for Ensuring App Quality with Continuous Integration.
